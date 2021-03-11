@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "296583738119",
+    "firebase_url": "https://inventario-ca411-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "inventario-ca411",
+    "storage_bucket": "inventario-ca411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296583738119:android:b2a9da423e3e97692fcba2",
+        "android_client_info": {
+          "package_name": "com.capps.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296583738119-kjgbmq4eu4n2duj4nfuj92sajq8c6in1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq6J8ekm68QOR49-v4Id2EvZ6J6J_w5Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296583738119-kjgbmq4eu4n2duj4nfuj92sajq8c6in1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
